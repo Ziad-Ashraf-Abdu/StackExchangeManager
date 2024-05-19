@@ -2,7 +2,7 @@
 
 THAT'S IT! WE ARE OFFICIALLY DONE1
 
-**********************************************************************************************************
+--------------------------------------------------------------------------------------------------------------------------------
 *Bonse*
   -We have made our own headthing (The place where the close/minimize/maximize exists sorry I don't recall what it's called)
   -We have made an exe icon so the user can access the app directly.
