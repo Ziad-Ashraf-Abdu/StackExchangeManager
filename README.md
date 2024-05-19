@@ -10,19 +10,24 @@ THAT'S IT! WE ARE OFFICIALLY DONE1
 
 
 
-|Front                   |Bench |                                              |
-|                        |Number|                                              |
-|------------------------|------|----------------------------------------------|
-| Rehab Marzouk          | 25   |                                              |
-| Haneen Mohammed        | 24   |                                              |
-| Basma Mohammed         | 23   |                                              |
-|Back                    |      |                                              |
-|                        |      |                                              |
-| Rahma Fathy            | 26   |                                              |
-| Zeyad Ashraf Abdo      | 30   | -Complete Stock Functionality                |
-|                        |      | -Premium User*                               |
-|                        |      | -Charts                                      |
-|                        |      | -User&Admin*                                 |
-|                        |      | -Requests*                                   |
-|                        |      | -Premium GUI                                 |
-|                        |      | -Admin GUI*                                  |
+|Front                   |Bench Number |                                              |            
+|------------------------|-------------|----------------------------------------------|
+| Rehab Marzouk          | 25          |                                              |
+| Haneen Mohammed        | 24          |                                              |
+| Basma Mohammed         | 23          |                                              |
+
+
+
+|Back                    |Bench Bumber      |                                              |
+|------------------------|------------------|----------------------------------------------|
+| Rahma Fathy            | 26               |                                              |
+| Zeyad Ashraf Abdo      | 30               | -Complete Stock Functionality                |
+|                        |                  | -Premium User*                               |
+|                        |                  | -Charts                                      |
+|                        |                  | -User&Admin*                                 |
+|                        |                  | -Requests*                                   |
+|                        |                  | -Premium GUI                                 |
+|                        |                  | -Admin GUI*                                  |
+
+
+*********************************************************************************************************************
