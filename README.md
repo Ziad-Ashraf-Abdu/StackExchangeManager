@@ -13,13 +13,13 @@ THAT'S IT! WE ARE OFFICIALLY DONE1
 |Front                   |Bench Number |                                              |            
 |------------------------|-------------|----------------------------------------------|
 | Haneen Mohammed        | 24          |  -User Manager Scences (5,15)                |
-| Rehab Marzouk          | 25             -Base UI for Scenes
+| Rehab Marzouk          | 25          |  -Base UI for Scenes
   Basma Mohammed           23             - Create Stock
                                           - Buy & Sell
                                           - View Transaction
                                           - Buy & Sell (Back)*
                                           - Scenes (6, 12, 16 , 11, 10)
-|                         |            |                                               |
+|                        |             |                                               |
 
 
 
