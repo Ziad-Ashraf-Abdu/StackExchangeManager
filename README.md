@@ -19,7 +19,6 @@ THAT'S IT! WE ARE OFFICIALLY DONE1
                                           - View Transaction
                                           - Buy & Sell (Back)*
                                           - Scenes (6, 12, 16 , 11, 10)
-|                        |             |                                               |
 
 
 
